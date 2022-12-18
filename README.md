@@ -1,16 +1,9 @@
 # stockist
 
-A new Flutter project.
+An assistance app for traders and stock market investors
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Stockist is a stock market assistance app which allows user to keep track of their favourite stock. 
+Also get updates on latest trends on stock prices and performance, that allows users to stay notified.
+Get instant details on shares of any stock from nse, view charts and make analysis. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
